@@ -3,9 +3,8 @@
 ## Internship Work at Innomatics Research Labs
 
 ###  📋 Table of Contents
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Project Motivation](#project-motivation)
+- [Project Overview](@project-overview)
+- [Project Motivation](@project-motivation)
 - [Features](#features)
 - [Dataset](#dataset)
 - [Installation](#installation)
@@ -47,7 +46,6 @@ cd electric-vehicle-data-analysis
 ```
 ### Install Dependencies
 Install the necessary Python libraries:
-
 ```bash
 pip install -r requirements.txt
 ```
