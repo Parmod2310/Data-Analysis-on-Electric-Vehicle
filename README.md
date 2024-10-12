@@ -13,6 +13,7 @@
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
+  
 ## 📌 Project Overview
 This project involves a comprehensive exploratory data analysis (EDA) of Electric Vehicle (EV) data from 1997 to 2011. The analysis examines the growth and distribution of EVs over the years and across different locations, using various visualizations, including a Choropleth Map and an animated Racing Bar Plot.
 
