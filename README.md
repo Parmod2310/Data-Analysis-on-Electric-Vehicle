@@ -2,9 +2,9 @@
 
 ## Internship Work at Innomatics Research Labs
 
-###  📋 Table of Contents
-- [Project Overview](@project-overview)
-- [Project Motivation](@project-motivation)
+### 📋 Table of Contents
+- [Project Overview](#project-overview)
+- [Project Motivation](#project-motivation)
 - [Features](#features)
 - [Dataset](#dataset)
 - [Installation](#installation)
@@ -12,7 +12,7 @@
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-  
+
 ## 📌 Project Overview
 This project involves a comprehensive exploratory data analysis (EDA) of Electric Vehicle (EV) data from 1997 to 2011. The analysis examines the growth and distribution of EVs over the years and across different locations, using various visualizations, including a Choropleth Map and an animated Racing Bar Plot.
 
@@ -28,7 +28,6 @@ With the increasing global adoption of electric vehicles, analyzing historical d
    
 ## 📊 Dataset
 #### The dataset contains information about Electric Vehicles from 1997 to 2023. Key columns include:
-
 - **Location**: Geographical area where the EV is located.
 - **Model Year**: The year the EV data was recorded.
 - **Make**: The make or brand of the EV.
@@ -39,6 +38,7 @@ With the increasing global adoption of electric vehicles, analyzing historical d
 Ensure you have the following installed:
 - Python 3.x
 - Required Python libraries: pandas, seaborn, matplotlib, plotly
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/your-username/electric-vehicle-data-analysis.git
